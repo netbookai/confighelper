@@ -1,4 +1,4 @@
-module confighelper
+module github.com/netbookai/confighelper
 
 go 1.17
 
